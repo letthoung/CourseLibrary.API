@@ -45,7 +45,10 @@ C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1
 C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.dll
 C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\CourseLibrary.API.pdb
 C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.dll
 C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.pdb
 C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.genruntimeconfig.cache
+C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\EO.Base.dll
+C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\EO.WebBrowser.dll
+C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\EO.WebEngine.dll
+C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.MvcApplicationPartsAssemblyInfo.cache
