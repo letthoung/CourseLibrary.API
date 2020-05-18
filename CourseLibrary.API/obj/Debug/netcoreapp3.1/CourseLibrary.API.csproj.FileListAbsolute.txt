@@ -51,4 +51,6 @@ C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1
 C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\EO.Base.dll
 C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\EO.WebBrowser.dll
 C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\EO.WebEngine.dll
+C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\tle\Desktop\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.MvcApplicationPartsAssemblyInfo.cache
