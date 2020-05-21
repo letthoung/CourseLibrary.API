@@ -123,9 +123,10 @@ namespace CourseLibrary.API.Controllers
             _mapper.Map(courseToPatch, courseForAuthorFromRepo);
 
             _courseLibraryRepository.UpdateCourse(courseForAuthorFromRepo);
-            
+
             _courseLibraryRepository.Save();
 
             return NoContent();
+        }
     }
 }
