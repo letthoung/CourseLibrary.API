@@ -8423,19 +8423,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tle\\.nuget\\packages\\": {}
+    "C:\\Users\\Tung Le\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tle\\Desktop\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
+      "projectUniqueName": "C:\\Users\\Tung Le\\Desktop\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
       "projectName": "CourseLibrary.API",
-      "projectPath": "C:\\Users\\tle\\Desktop\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
-      "packagesPath": "C:\\Users\\tle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tle\\Desktop\\CourseLibrary.API\\CourseLibrary.API\\obj\\",
+      "projectPath": "C:\\Users\\Tung Le\\Desktop\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
+      "packagesPath": "C:\\Users\\Tung Le\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tung Le\\Desktop\\CourseLibrary.API\\CourseLibrary.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tung Le\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
